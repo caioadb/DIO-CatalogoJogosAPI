@@ -1,2 +1,2 @@
 # DIO-CatalogoJogosAPI
-API de catalogo de jogos.net criado para o curso da dio.
+API de catálogo de jogos criado em C# .net para o curso da dio.
